@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="new_game">New Game</string>
+    <string name="about">About</string>
+    <string name="about_content">This is a menu app</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
