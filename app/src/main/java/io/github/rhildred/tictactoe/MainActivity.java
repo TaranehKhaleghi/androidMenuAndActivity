@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle item selection
         switch (item.getItemId()) {
-            case R.id.menu_settings:
-                Toast.makeText(this, "Settings", Toast.LENGTH_SHORT).show();
+            case R.id.menu_newGame:
+                Toast.makeText(this, "This would start a new game", Toast.LENGTH_LONG).show();
                 return true;
             case R.id.menu_about:
                 //Toast.makeText(this, "About", Toast.LENGTH_SHORT).show();
